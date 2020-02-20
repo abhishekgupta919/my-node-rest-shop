@@ -1,0 +1,8 @@
+{
+  "name": "My-Node-Rest-Shop API documentation",
+  "version": "1.0.0",
+  "description": "API list manager",
+  "template": {
+      "forceLanguage": "en"
+  }
+}
